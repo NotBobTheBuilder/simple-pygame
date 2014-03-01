@@ -1,4 +1,6 @@
-import pygame, math, sys
+import sys
+import math
+import pygame
 from pygame.locals import FULLSCREEN, K_UP, K_DOWN, K_LEFT, K_RIGHT, K_ESCAPE
 
 
